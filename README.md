@@ -14,7 +14,7 @@ This project is a Flask-based web application that monitors Apache access logs. 
 ## Technology Stack
 
 - **Backend:** Flask, Python
-- **Frontend:** TailwindCSS, Chart.js
+- **Frontend:** TailwindCSS
 - **Containerization:** Docker
 - **Logging Service:** Apache Access Logs
 
