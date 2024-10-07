@@ -36,7 +36,7 @@ This project is a Flask-based web application that monitors Apache access logs. 
 
 3. Build and run the Docker container:
    ```bash
-   docker-compose up --build
+   docker-compose up -d --build
    ```
 
 4. Access the application at `http://localhost:5000`.
