@@ -28,8 +28,8 @@ This project is a Flask-based web application that monitors Apache access logs. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gopalvishwakrma/flask-devops-project.git
-   cd flask-devops-project
+   git clone https://github.com/gopalvishwakrma/access-monitor-dashboard.git
+   cd access-monitor-dashboard
    ```
 
 2. Create a `.env` file with the necessary environment variables.
